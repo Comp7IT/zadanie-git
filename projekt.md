@@ -1,4 +1,4 @@
-#Moj projekt
+# Moj projekt
 
 Projekt polega na stworzeniu prostej strony internetowej do zarzadzania zadaniami.
 
@@ -6,3 +6,8 @@ Projekt polega na stworzeniu prostej strony internetowej do zarzadzania zadaniam
 - Dodawanie zadan
 - Usuwanie zadan
 - Oznaczanie jako wykonane
+
+### Technologie
+- HTML
+- CSS
+- JavaScript
