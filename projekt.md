@@ -1,11 +1,11 @@
-# Moj projekt
+# Cel projektu
 
-Projekt polega na stworzeniu prostej strony internetowej do zarzadzania zadaniami.
+Projekt polega na tworzeniu aplikacji na podstawowej stronie internetowej.
 
-## Funkcje
-- Dodawanie zadan
+## Wersja feature-login
+- Dodawanie zadan aplikacji
 - Usuwanie zadan
-- Oznaczanie jako wykonane
+- Sprawdzanie dzialania aplikacji
 
 ### Technologie
 - HTML
