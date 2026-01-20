@@ -1,10 +1,10 @@
-# Moj projekt
+# Cel naszych projektow Wersja Main
 
-Projekt polega na stworzeniu prostej strony internetowej do zarzadzania zadaniami.
+Projekt polega na stworzeniu aplikacji i  strony internetowej 
 
-## Funkcje
-- Dodawanie zadan
-- Usuwanie zadan
+## Funkcje i cele 
+- Dodawanie zadan i aplikacji
+- Usuwanie zadan i poprawianie
 - Oznaczanie jako wykonane
 
 ### Technologie
